@@ -1,6 +1,4 @@
-# testproject
-
-A new Flutter project.
+This is a Flutter MQTT app.
 
 ## Getting Started
 
