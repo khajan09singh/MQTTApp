@@ -1,4 +1,4 @@
-This is a Flutter MQTT app.
+This is a Flutter Testing MQTT app.
 
 ## Getting Started
 
