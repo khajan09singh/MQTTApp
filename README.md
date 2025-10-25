@@ -1,1 +1,1 @@
-This is a Flutter Testing MQTT app.
+This is an MQTT Testing app made in Flutter.
